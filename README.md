@@ -21,15 +21,15 @@ Copy
 Edit
 smart-movie-recommender/
 │
-├── recommender.py          # Core logic for recommendations
-├── build_model.py          # Script to preprocess and save model
-├── app.py                  # Streamlit web app
-├── data/
-│   └── tmdb_5000_movies.csv
-├── models/
-│   └── similarity.pkl      # (excluded from GitHub due to size)
-├── .gitignore
-└── README.md               
+recommender.py          # Core logic for recommendations
+build_model.py          # Script to preprocess and save model
+app.py                  # Streamlit web app
+data/
+tmdb_5000_movies.csv
+models/
+similarity.pkl      # (excluded from GitHub due to size)
+gitignore
+README.md               
 
 
 ⚙️ Installation & Usage
