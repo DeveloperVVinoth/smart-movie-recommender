@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import requests
 
-# TMDB API key (replace YOUR_API_KEY_HERE with your real key)
+# TMDB API key 
 API_KEY = "c4cf1986b9104ad7758a37f50e2bdc74"
 
 # Load model
