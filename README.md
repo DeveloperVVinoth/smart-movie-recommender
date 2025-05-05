@@ -67,6 +67,8 @@ Integrate with TheMovieDB API for live data
 Add poster previews and trailers
 Deploy on HuggingFace Spaces / Streamlit Cloud
 
+Install git lfs if you want the model
+
 👨‍💻 Author
 Made with ❤️ by DeveloperVVinoth
 
